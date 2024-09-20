@@ -1,0 +1,1 @@
+# Script with helper functions
